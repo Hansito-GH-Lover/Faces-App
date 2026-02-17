@@ -5,7 +5,7 @@ import tensorflow as tf
 # -----------------------------
 # Konfiguration
 # -----------------------------
-MODEL_PATH = "emotion_model.h5"
+MODEL_PATH = "keras_model.h5"
 IMG_SIZE = 48  # Anpassen falls nötig
 
 # -----------------------------
