@@ -1,0 +1,2 @@
+0 Happy Person
+1 Sad Person
