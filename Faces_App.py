@@ -5,7 +5,7 @@ import numpy as np
 # -------------------------------------------------
 # Konfiguration
 # -------------------------------------------------
-MODEL_PATH = "emotion_model.h5"
+MODEL_PATH = "keras_model.h5"
 
 # -------------------------------------------------
 # Modell laden (wichtig: compile=False)
